@@ -1,7 +1,5 @@
 """
-Final Project
-Course: CS 111
-Prof:   Shanon Reckinger
+Project: Which way?
 Year:   2022-23
 Names:  Aaryan Sharma, Ayush Bhardwaj
 """
